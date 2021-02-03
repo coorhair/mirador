@@ -63,7 +63,7 @@
     "iiif_seeAlso": "Xem thêm",
     "import" : "Nhập khẩu",
     "importWorkspace": "Nhập không gian làm việc",
-    "importWorkspaceHint": "Dán cấu hình Mirador 3 đã được nhập khẩu",
+    "importWorkspaceHint": "Dán cấu hình Mirador 3 để nhập khẩu",
     "item": "Trang: {{label}}",
     "jsError": "Chi tiết kĩ thuật",
     "jsStack": "{{ stack }}",
