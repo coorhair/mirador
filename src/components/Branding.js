@@ -22,7 +22,7 @@ export class Branding extends Component {
         <Typography align="center">
           <IconButton
             component="a"
-            href="https://projectmirador.org"
+            href="https://so.brainhub.vn"
             target="_blank"
             rel="noopener"
           >

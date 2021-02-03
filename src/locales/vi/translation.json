@@ -1,6 +1,6 @@
 {
   "translation": {
-    "aboutMirador": "Về dự án Mirador",
+    "aboutMirador": "Một dự án sách của Brainhub.vn",
     "aboutThisItem": "Về trang này",
     "addedFromUrl": "(Được thêm từ URL)",
     "addManifestUrl": "Đường dẫn tài nguyên",
@@ -138,7 +138,7 @@
     "tryAgain": "Thử lại lần nữa",
     "untitled": "[Untitled]",
     "view": "Chế độ xem",
-    "welcome": "Chào mừng đến Mirador",
+    "welcome": "Chào mừng đến thư viện sách của Brainhub.vn",
     "window": "Cửa sổ: {{label}}",
     "windowMenu": "Chế độ xem cửa sổ & hiển thị thumbnail",
     "windowNavigation": "Điều hướng cửa sổ",
