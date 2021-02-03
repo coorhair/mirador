@@ -215,7 +215,7 @@ export default {
       },
     },
   },
-  language: 'en', // The default language set in the application
+  language: 'vi', // The default language set in the application
   availableLanguages: { // All the languages available in the language switcher
     ar: 'العربية',
     de: 'Deutsch',
@@ -229,6 +229,7 @@ export default {
     'zh-TW': '中文(繁體)',
     it: "Italiano",
     sr: 'Српски',
+    vi: 'Tiếng Việt',
   },
   annotations: {
     htmlSanitizationRuleSet: 'iiif', // See src/lib/htmlRules.js for acceptable values
